@@ -1,0 +1,28 @@
+
+.first-area{
+    background-color: tomato;
+}
+
+.first-area__title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 720px;
+}
+
+
+.first-area__swipe-bar{
+    background-color: darkcyan;
+    width: 200px;
+    height: 40px;
+}
+
+.first-area__scroll{
+    display: flex;
+    background-color: darkcyan;
+    padding-bottom: 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.second-area{
+    height: 720px;
+    display: flex;
+}
+
+
+.content{
+    background-color: skyblue;
+    border: 1px solid tomato;
+    width: 480px;
+}
